@@ -8,23 +8,16 @@ Below you’ll find my research projects (with links to both code and papers), a
 ![Journal](https://img.shields.io/badge/2021-Journal-blue) [Evaluation of a Fast Test Based on Biometric Signals to Assess Mental Fatigue at the Workplace—A Pilot Study](https://doi.org/10.3390/ijerph182211891)  
 ![Conference](https://img.shields.io/badge/2021-Conference-green) [Advanced Learner Assistance System's (ALAS) recent results](https://doi.org/10.1109/IEEECONF53024.2021.9733770)  
 ![Conference](https://img.shields.io/badge/2021-Conference-green) [Real-time Biofeedback System for Interactive Learning using Wearables and IoT](https://ieomsociety.org/proceedings/2021monterrey/487.pdf)  
-![Abstract](https://img.shields.io/badge/2024-Abstract-red) U21 HSG Annual Meeting     
-![Abstract](https://img.shields.io/badge/2023-Abstract-red) 19<sup>th</sup> IEEE-EMBS BSN  
-![Abstract](https://img.shields.io/badge/2021-Abstract-red) BRAIN Annual Meeting  
-![Abstract](https://img.shields.io/badge/2021-Abstract-red) 43<sup>rd</sup> IEEE-EMBC  
+![Abstract](https://img.shields.io/badge/2024-Abstract-red) U21 HSG Annual Meeting ![Abstract](https://img.shields.io/badge/2023-Abstract-red) 19<sup>th</sup> IEEE-EMBS BSN ![Abstract](https://img.shields.io/badge/2021-Abstract-red) BRAIN Annual Meeting ![Abstract](https://img.shields.io/badge/2021-Abstract-red) 43<sup>rd</sup> IEEE-EMBC  
 
 - **[neurohumanities-lab](https://github.com/miltoncandela/neurohumanities-lab)**  
-![Journal](https://img.shields.io/badge/2024-Journal-blue) [Real-time EEG-based Emotion Recognition for Neurohumanities: Perspectives from Principal Component Analysis and Tree-based Algorithms](https://doi.org/10.3389/fnhum.2024.1319574)   
-![Abstract](https://img.shields.io/badge/2025-Abstract-red) IINAA    
-![Abstract](https://img.shields.io/badge/2024-Abstract-red) U21 HSG Annual Meeting     
-![Abstract](https://img.shields.io/badge/2023-Abstract-red) BRAIN Annual Meeting
+![Journal](https://img.shields.io/badge/2024-Journal-blue) [Real-time EEG-based Emotion Recognition for Neurohumanities: Perspectives from Principal Component Analysis ...](https://doi.org/10.3389/fnhum.2024.1319574)   
+![Abstract](https://img.shields.io/badge/2025-Abstract-red) IINAA ![Abstract](https://img.shields.io/badge/2024-Abstract-red) U21 HSG Annual Meeting  ![Abstract](https://img.shields.io/badge/2023-Abstract-red) BRAIN Annual Meeting
 
 - **[STEM-talent-detection](https://github.com/miltoncandela/STEM-talent-detection)**  
 ![Journal](https://img.shields.io/badge/2025-Journal-blue) [Neural Signatures of STEM Learning and Interest in Youth](https://doi.org/10.1016/j.actpsy.2025.104949)  
 ![Conference](https://img.shields.io/badge/2021-Conference-green) [Detecting Change in Engineering Interest in Children through Machine Learning using Biometric Signals](https://doi.org/10.1109/IEEECONF53024.2021.9733772)  
-![Abstract](https://img.shields.io/badge/2024-Abstract-red) U21 HSG Annual Meeting     
-![Abstract](https://img.shields.io/badge/2022-Abstract-red)![Abstract](https://img.shields.io/badge/2023-Abstract-red) BRAIN Annual Meeting  
-![Abstract](https://img.shields.io/badge/2021-Abstract-red) 43<sup>rd</sup> IEEE-EMBC
+![Abstract](https://img.shields.io/badge/2024-Abstract-red) U21 HSG Annual Meeting ![Abstract](https://img.shields.io/badge/2022-Abstract-red)![Abstract](https://img.shields.io/badge/2023-Abstract-red) BRAIN Annual Meeting ![Abstract](https://img.shields.io/badge/2021-Abstract-red) 43<sup>rd</sup> IEEE-EMBC
 
 - **[chess-cognitive-load](https://github.com/miltoncandela/chess-cognitive-load)**  
 ![Conference](https://img.shields.io/badge/2025-Conference-green) [Task Resolution Time Estimation through Cognitive Load: An EEG Study of Chess Players](https://escholarship.org/uc/item/6qh4q558)  
@@ -35,11 +28,10 @@ Below you’ll find my research projects (with links to both code and papers), a
 
 ---
 
-### 🩻 MRI & Neuroimaging
+### 🖥️ MRI & Neuroimaging
 - **[fetal-subplate-prediction](https://github.com/miltoncandela/fetal-subplate-prediction)**  
-![Journal](https://img.shields.io/badge/2025-Journal-blue) [Typical Development of the Human Fetal Subplate: Regional Heterogeneity, Growth, and Asymmetry Assessed by in vivo T2-weighted MRI](https://doi.org/xxxx)  
-![Abstract](https://img.shields.io/badge/2025-Abstract-red) 31<sup>st</sup> OHBM  
-![Abstract](https://img.shields.io/badge/2024-Abstract-red) FNNDSC Research Symposium
+![Journal](https://img.shields.io/badge/2025-Journal-blue) [Typical Development of the Human Fetal Subplate: Regional Heterogeneity, Growth, and Asymmetry Assessed by ...](https://doi.org/xxxx)  
+![Abstract](https://img.shields.io/badge/2025-Abstract-red) 31<sup>st</sup> OHBM ![Abstract](https://img.shields.io/badge/2024-Abstract-red) FNNDSC Research Symposium
 
 ---
 

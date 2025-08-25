@@ -48,7 +48,7 @@ Below you’ll find my research projects (with links to both code and papers), a
   - 🎤 2025 — Innovative Spaces with Advanced Technologies such as Research Activity Simulators for Engineering Education — [Paper](https://doi.org/10.1109/EDUCON62633.2025.11016540)  
   - 📑 2024 — Human-Vehicle Interfaces: A Review for Autonomous Electric Vehicles — [Paper](https://doi.org/10.1109/ACCESS.2024.3450439)
   - 🎤 2024 — Conscious Technologies Projects as a Hub for Real Life Challenges in Engineering Education — [Paper](https://doi.org/10.1109/EDUCON60312.2024.10578738) 
-  - 📝 2022 — Current and Future Biometrics: Technology and Applications [Chapter](https://doi.org/10.1201/9781003145240-1)  
+  - 📘 2022 — Current and Future Biometrics: Technology and Applications — [Chapter](https://doi.org/10.1201/9781003145240-1)  
 
 
 <!--

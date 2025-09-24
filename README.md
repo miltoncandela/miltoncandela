@@ -24,7 +24,8 @@ Below you’ll find my research projects (with links to both code and papers), a
   - 📝 2025 — SACNAS NDiSTEM
  
 - **[closed-attention-BCI](https://github.com/miltoncandela/closed-attention-BCI)**  
-  - 🎤 2025 — Closed-Loop Haptic Neurofeedback BCI for Real-Time Student Attention Regulation — [Paper](https://doi.org/xxxx)  
+  - 🎤 2025 — Closed-Loop Haptic Neurofeedback BCI for Real-Time Student Attention Regulation — [Paper](https://doi.org/xxxx)
+  - 📝 2025 — GCC Research Rodeo
 
 ---
 

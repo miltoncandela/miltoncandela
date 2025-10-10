@@ -21,7 +21,6 @@ Below you’ll find my research projects (with links to both code and papers), a
 
 - **[chess-cognitive-load](https://github.com/miltoncandela/chess-cognitive-load)**  
   - 🎤 2025 — Task Resolution Time Estimation through Cognitive Load: An EEG Study of Chess Players — [Paper](https://escholarship.org/uc/item/6qh4q558)  
-  - 📝 2025 — SACNAS NDiSTEM
  
 - **[closed-attention-BCI](https://github.com/miltoncandela/closed-attention-BCI)**  
   - 🎤 2025 — Closed-Loop Haptic Neurofeedback BCI for Real-Time Student Attention Regulation — [Paper](https://doi.org/xxxx)

@@ -3,47 +3,25 @@ Welcome to my GitHub profile!
 I work on projects at the intersection of biomedical engineering, AI, and neuroscience.  
 Below you’ll find my research projects (with links to both code and papers), as well as other publications.  
 
-### 🖥️ MRI & Clinical Neuroimaging
-- **[fetal-subplate-prediction](https://github.com/miltoncandela/fetal-subplate-prediction)**  
-  - 📑 2025 — Typical Development of the Human Fetal Subplate: Regional Heterogeneity, Growth, and Asymmetry ... — [Paper](https://www.biorxiv.org/content/10.1101/2025.10.06.680743.abstract)  
-  - 📝 2025, 2024 — 31<sup>st</sup> OHBM, FNNDSC Research Symposium
-
-- **[cup-movement-decoding](https://github.com/miltoncandela/cup-movement-decoding)**
-  - 📝 2026 - IDRR Symposium
+### 🖥️ Clinical Neurotechnology
+- **[fetal-subplate-prediction](https://github.com/miltoncandela/fetal-subplate-prediction)** — Deep learning for fetal brain MRI segmentation · [(Gondova et al., 2026, PNAS)](https://www.biorxiv.org/content/10.1101/2025.10.06.680743.abstract) 
+- **[cup-movement-decoding](https://github.com/miltoncandela/cup-movement-decoding)** — EEG/EMG decoding of upper-limb movement in SCI
+- **[chd-fetal-brain](link)** — Age-adjusted qMRI features classify congenital heart disease
 
 ---
 
-### 🧠 EEG & Brain-Computer Interfaces
-- **[closed-attention-BCI](https://github.com/miltoncandela/closed-attention-BCI)**  
-  - 🎤 2026 — Closed-Loop Haptic Neurofeedback BCI for Real-Time Student Attention Regulation — [Paper](https://doi.org/10.1007/978-3-032-13729-6_28)
-  - 📝 2025 — GCC Research Rodeo
-
-- **[STEM-talent-detection](https://github.com/miltoncandela/STEM-talent-detection)**  
-  - 📑 2025 — Neural Signatures of STEM Learning and Interest in Youth — [Paper](https://doi.org/10.1016/j.actpsy.2025.104949)  
-  - 🎤 2021 — Detecting Change in Engineering Interest in Children through Machine Learning using Biometric Signals — [Paper](https://doi.org/10.1109/IEEECONF53024.2021.9733772)  
-  - 📝 2024, (2023, 2022), 2021 — U21 HSG Annual Meeting, BRAIN Annual Meeting, 43<sup>rd</sup> IEEE-EMBC
-
-- **[neurohumanities-lab](https://github.com/miltoncandela/neurohumanities-lab)**  
-  - 📑 2024 — Real-time EEG-based Emotion Recognition for Neurohumanities: Perspectives from Principal Component ... — [Paper](https://doi.org/10.3389/fnhum.2024.1319574)
-  - 🎤 2026 — Toward Emotionally Adaptive Learning Spaces: Brain–Body Engagement in Immersive Dance Improvisation — [Paper](https://doi.org/xxxx)
-  - 📝 2025, 2024, 2023 — IINAA, U21 HSG Annual Meeting, BRAIN Annual Meeting
-
-- **[chess-cognitive-load](https://github.com/miltoncandela/chess-cognitive-load)**  
-  - 🎤 2025 — Task Resolution Time Estimation through Cognitive Load: An EEG Study of Chess Players — [Paper](https://escholarship.org/uc/item/6qh4q558)
-
-- **[ALAS-project](https://github.com/miltoncandela/ALAS-project)**   
-  - 📑 2021 — Evaluation of a Fast Test Based on Biometric Signals to Assess Mental Fatigue at the Workplace ... — [Paper](https://doi.org/10.3390/ijerph182211891)  
-  - 🎤 2021 — Advanced Learner Assistance System's (ALAS) recent results — [Paper](https://doi.org/10.1109/IEEECONF53024.2021.9733770)  
-  - 🎤 2021 — Real-time Biofeedback System for Interactive Learning using Wearables and IoT — [Paper](https://ieomsociety.org/proceedings/2021monterrey/487.pdf) 
-  - 📝 2024, 2023, 2021, 2021 — U21 HSG Annual Meeting, 19<sup>th</sup> IEEE-EMBS BSN, BRAIN Annual Meeting, 43<sup>rd</sup> IEEE-EMBC  
+### 🧠 Cogntive Neuroengineering
+- **[closed-attention-BCI](https://github.com/miltoncandela/closed-attention-BCI)** — EEG + haptic neurofeedback for attention · [(Candela-Leal et al., 2026, 48th CNIB)](https://doi.org/10.1007/978-3-032-13729-6_28)
+- **[neurohumanities-lab](https://github.com/miltoncandela/neurohumanities-lab)** — EEG-based emotion recognition in immersive spaces · [(Blanco-Rios et al., 2024, Front. Hum. Neurosci.)](https://doi.org/10.3389/fnhum.2024.1319574); [(Candela et al., 2026, 17th IEEE EDUCON)](https://doi.org/xxxx)
+- **[STEM-talent-detection](https://github.com/miltoncandela/STEM-talent-detection)** — EEG + autonomic signals to assess STEM engagement · [(Candela-Leal et al., 2025, Acta Psychol.)](https://doi.org/10.1016/j.actpsy.2025.104949); [(Olivas et al., 2021, IEEE Workshop)](https://doi.org/10.1109/IEEECONF53024.2021.9733772)
+- **[chess-cognitive-load](https://github.com/miltoncandela/chess-cognitive-load)** — EEG estimation of cognitive load in chess · [(Candela-Leal et al., 2025, 47th CogSci)](https://escholarship.org/uc/item/6qh4q558)
+- **[ALAS-project](https://github.com/miltoncandela/ALAS-project)** — Wearable EEG system to track mental fatigue · [(Ramirez-Moreno et al., 2021, IJERPH)](https://doi.org/10.3390/ijerph182211891); [(Aguilar-Herrera et al., 2021, IEEE Workshop)](https://doi.org/10.1109/IEEECONF53024.2021.9733770)
 
 ---
 
-### 🏃 Biomechanics & Movement Science
-- **[rnn-force-prediction](https://github.com/miltoncandela/rnn-force-prediction)**  
-  - 📑 2022 — Multi-Output Sequential Deep Learning Model for Athlete Force Prediction on a Treadmill using ... — [Paper](https://doi.org/10.3390/app12115424)  
-  - 🎤 2023 — Biomechanics Digital Twin: Markerless Joint Acceleration Prediction Using Machine Learning and .... — [Paper](https://doi.org/10.1109/IEEECONF56852.2023.10104757)  
-  - 📝 (2023, 2022, 2021) — BRAIN Annual Meeting
+### 🏃 Computational Biomechanics
+- **[rnn-force-prediction](https://github.com/miltoncandela/rnn-force-prediction)** — Deep learning to predict joint forces and accelerations from kinematics · [(Candela-Leal et al., 2022, Appl. Sci.)](https://doi.org/10.3390/app12115424); [(Candela-Leal et al., 2023, IEEE Workshop)](https://doi.org/10.1109/IEEECONF56852.2023.10104757)  
+- **[acl-knee-tracking](https://github.com/miltoncandela/rnn-force-prediction)** — Real-time 3D knee tracking for ACL assessment
 
 ---
 

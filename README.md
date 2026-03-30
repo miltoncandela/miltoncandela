@@ -6,9 +6,11 @@ Below you’ll find my research projects (with links to both code and papers), a
 ### 🖥️ Clinical Neurotechnology
 - **[fetal-subplate-prediction](https://github.com/miltoncandela/fetal-subplate-prediction)** — Deep learning for fetal brain MRI segmentation · [(Gondova et al., 2026, PNAS)](https://doi.org/10.1101/2025.10.06.680743) 
 - **[cup-movement-decoding](https://github.com/miltoncandela/cup-movement-decoding)** — EEG/EMG decoding of upper-limb movement in SCI
+- **[chd-fetal-brain](https://github.com/miltoncandela/chd-fetal-brain)** — Age-adjusted qMRI features to classify congenital heart disease
+<!--
 - **[cortico-muscular-power](https://github.com/miltoncandela/sci-cortico-muscular)** — EEG + EMG + force power grip dynamics in SCI
 - **[closed-resp-stim](https://github.com/miltoncandela/closed-resp-stim)** — Breathing-based diaphragm electrical stimulation in SCI
-- **[chd-fetal-brain](https://github.com/miltoncandela/chd-fetal-brain)** — Age-adjusted qMRI features to classify congenital heart disease
+-->
 
 ---
 

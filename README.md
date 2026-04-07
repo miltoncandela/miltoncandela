@@ -4,7 +4,7 @@ I work on projects at the intersection of biomedical engineering, AI, and neuros
 Below you’ll find my research projects (with links to both code and papers), as well as other publications.  
 
 ### 🖥️ Clinical Neurotechnology
-- **[fetal-subplate-prediction](https://github.com/miltoncandela/fetal-subplate-prediction)** — Deep learning for fetal brain MRI segmentation · [(Gondova et al., 2026, PNAS)](https://doi.org/10.1101/2025.10.06.680743) 
+- **[fetal-subplate-prediction](https://github.com/miltoncandela/fetal-subplate-prediction)** — Deep learning for fetal brain MRI segmentation · [(Gondova et al., 2026, PNAS)](https://doi.org/10.1073/pnas.2528620123) 
 - **[cup-movement-decoding](https://github.com/miltoncandela/cup-movement-decoding)** — EEG/EMG decoding of upper-limb movement in SCI
 - **[chd-fetal-brain](https://github.com/miltoncandela/chd-fetal-brain)** — Age-adjusted qMRI features to classify congenital heart disease
 <!--

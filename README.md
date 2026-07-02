@@ -30,6 +30,8 @@ Below you’ll find my research projects (with links to both code and papers), a
 ---
 
 ### 📄 Other Articles
+  - 📘 2026 — Biometric Assessment of Mental Fatigue, Interest, and Anxiety in Workplace Contexts — [Chapter](https://doi.org/xxx)
+  - 🎤 2026 — Toward Emotionally Adaptive Learning Spaces: Brain–Body Engagement in Immersive Dance Improvisation — [Paper](https://doi.org/10.1109/EDUCON67543.2026.11574191)  
   - 📘 2026 — Workplace Measures of Mental Fatigue — [Chapter](https://doi.org/10.1016/B978-0-443-24080-5.00005-9)  
   - 🎤 2025 — Innovative Spaces with Advanced Technologies such as Research Activity Simulators for Engineering Education — [Paper](https://doi.org/10.1109/EDUCON62633.2025.11016540)  
   - 📑 2024 — Human-Vehicle Interfaces: A Review for Autonomous Electric Vehicles — [Paper](https://doi.org/10.1109/ACCESS.2024.3450439)
